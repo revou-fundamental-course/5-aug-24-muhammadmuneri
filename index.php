@@ -41,7 +41,6 @@
       <p><b>HASIL</b></p>
       <div class='result'>Perhitungan BMI</div>
     </div>
-    <div class='result1'></div> <!-- Memastikan elemen ini berada di luar elemen dengan latar belakang abu-abu -->
   </div>
   <script src="script.js"></script>
 </body>
