@@ -34,7 +34,7 @@ result1 {
 .form-section form {
   background-color: #f0f0f0; /* Latar belakang abu-abu */
   padding: 20px; /* Menambahkan padding untuk ruang di dalam form */
-  border-radius: 5px; /* Mengatur sudut membulat */
+  border-radius: 5px;
 }
 
 label {
